@@ -1,4 +1,4 @@
 - 👋 Hi, I’m 'Zaifa
-- 👀 I'm mostly in data (with a purpose)
-- 📫 Do not Hesitate to contact me regarding any of my work. 
+- 👀 I'm mostly into data (with a purpose)
+- 📫 Do not hesitate to contact me regarding any of my work. 
 
